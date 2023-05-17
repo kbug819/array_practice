@@ -34,3 +34,10 @@ puts accounts [3]
 #coorisponding boolean set for each variable "true"
 
 puts feelings [2]
+
+##Demonstate your knowledge of index positions:
+#Index positions
+#Index positions start from 0 and go up from left to right.
+#In the following array, there are 2 index positions (0 & 1)
+#example variable array
+colors = ["yellow", "red"] #yellow is in position #0, red is in position #1)
