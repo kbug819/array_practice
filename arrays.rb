@@ -41,3 +41,14 @@ puts feelings [2]
 #In the following array, there are 2 index positions (0 & 1)
 #example variable array
 colors = ["yellow", "red"] #yellow is in position #0, red is in position #1)
+
+##Learn about one additional array method of your choice
+#provide an explanation and example to demonstrate your understanding
+
+animals = ["dog", "cat", "horse"]
+#I learned that we can use the following methods:
+#`.first` `.last` to call the first or last values from an array.
+#The below will call "dog" and "horse" respectively
+
+puts animals.first
+puts animals.last
